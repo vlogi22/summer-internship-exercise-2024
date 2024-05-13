@@ -22,7 +22,7 @@ Neste exercício receberás uma espécie de árvore genealógica de uma família
 
 ![alt text](image.png?raw=true)
 
-Para A: a última geração, e a mais distante de A, é a terceira geração, o mais velho dessa geração é F e há duas gerações entre A e F, então o tecnónimo de A é 'grandmother of F'; 
+Para A: a última geração, e a mais distante de A, é a terceira geração, o mais velho dessa geração é F e há duas gerações entre A e F, então o tecnónimo de A é 'grandfather of F'; 
 
 para B: B tem apenas um descendente direto, E, na terceira geração, e há uma geração entre B e E, então o tecnónimo  de B é 'father of E'; 
 
